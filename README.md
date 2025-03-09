@@ -39,24 +39,15 @@ More DevOps guides are in the works, covering topics such as:
 
 ## Related Resources
 
-If you enjoy these guides, you might also find these repositories useful:
+If you enjoy these guides, you're probably using Linux. If so, you might also find these repositories useful:
 
 - [i3-Guide](https://github.com/bgdnandrew/i3-Guide): A guide to the i3 window manager
 - [VIM-Guide](https://github.com/bgdnandrew/VIM-Guide): A comprehensive guide to mastering Vim
 
-## About the Author
+## Author
 
-I'm Andrew Bogdan, a software engineer and DevOps enthusiast passionate about Linux, open source, and efficient development workflows.
+I'm Bogdan, a software engineer passionate about Linux, open source, and efficient development workflows.
 
 - **Website**: [bgdnandrew.com](https://bgdnandrew.com)
 - **Twitter/X**: [@bgdnandrew](https://twitter.com/bgdnandrew)
-- **GitHub**: [bgdnandrew](https://github.com/bgdnandrew)
 - **Software Development Agency**: [Oriented Platforms](https://orientedplatforms.com)
-
-## Contributions
-
-Contributions, suggestions, and feedback are always welcome! Feel free to open an issue or submit a pull request if you have improvements or corrections to suggest.
-
-## License
-
-These guides are shared under the MIT License - see the LICENSE file for details.
