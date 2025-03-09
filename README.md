@@ -6,7 +6,7 @@ A collection of practical DevOps guides aimed at solving specific operational he
 
 ### Self-Hosting is a Superpower
 
-In an era where cloud services dominate, the ability to self-host applications gives you unparalleled control, privacy, and understanding of your infrastructure. These guides aim to empower you with that superpower.
+In an era where cloud services dominate, the ability to self-host applications gives you unparalleled control, privacy, and understanding of your infrastructure. Mark yourself safe from the dark patterns and unreasonable pricing models employed by Heroku et al.
 
 ### DevOps Skills are Essential
 
@@ -27,15 +27,6 @@ My love for Linux runs deep. These guides primarily focus on Linux-based solutio
 - [**Coolify + Hetzner + Plausible Analytics Setup Guide**](self-hosting-coolify-hetzner-setup-guide.md): A comprehensive walkthrough for setting up Coolify on a Hetzner server and deploying Plausible Analytics.
 
   While deploying projects using Docker and Docker Compose on your own server is already powerful, adding Coolify provides a user-friendly layer that makes management significantly easier. This approach offers a more fulfilling alternative to navigating the dark patterns of platforms like Heroku and Vercel.
-
-### Coming Soon
-
-More DevOps guides are in the works, covering topics such as:
-
-- Kubernetes deployment strategies
-- CI/CD pipeline optimization
-- Infrastructure as Code best practices
-- Monitoring and observability solutions
 
 ## Related Resources
 
